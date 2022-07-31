@@ -1,16 +1,26 @@
-### Hi there 👋
+### 💾 <b>What I've used before</b> 💾
+<img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JWT-181717?style=flat-square"/>
+<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MyBatis-4479A1?style=flat-square&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
-<!--
-**wakkpu/wakkpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### 📌 <b>What I'm learning now</b> 📌
+<img src="https://img.shields.io/badge/-Spring Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JPA-6DB33F?style=flat-square&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=#4479A1"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=flat-square&logo=JiraSoftware&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### 🔎 <b>Solved.ac</b> 🔎
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ho05248)](https://solved.ac/ho05248)
