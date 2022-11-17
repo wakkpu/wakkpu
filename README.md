@@ -18,5 +18,5 @@
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=wakkpu)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ### GitMoti
-[![GitMoti](http://mymoti.co.kr:3000/username/wakkpu)](http://mymoti.co.kr)
+[![GitMoti](mymoti.co.kr:3000/username/wakkpu)](http://mymoti.co.kr)
 
