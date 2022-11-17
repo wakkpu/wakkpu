@@ -14,3 +14,6 @@
 
 ### 🔎 <b>Solved.ac</b> 🔎
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ho05248)](https://solved.ac/ho05248)
+
+### GitMoti
+[![GitMoti](http://mymoti.co.kr:3000/username/wakkpu)](http://mymoti.co.kr)
