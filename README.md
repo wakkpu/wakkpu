@@ -20,3 +20,5 @@
 
 ### GitMoti
 [![GitMoti](http://mymoti.co.kr:3000/username/wakkpu)](http://mymoti.co.kr)
+
+![GitMoti](https://motimoti-bucket.s3.ap-northeast-2.amazonaws.com/basic/4_+v2/basic_4_badge.svg)
