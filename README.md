@@ -15,9 +15,8 @@
 ### 🔎 <b>Solved.ac</b> 🔎
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ho05248)](https://solved.ac/ho05248)
 
-
+### Contribution Stats
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=wakkpu)](https://github.com/LordDashMe/github-contribution-stats/)
-
 
 ### GitMoti
 [![GitMoti](http://mymoti.co.kr:3000/username/wakkpu)](http://mymoti.co.kr)
