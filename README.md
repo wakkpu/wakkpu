@@ -19,5 +19,4 @@
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=wakkpu)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ### GitMoti
-[![Coin](https://motimoti-bucket.s3.ap-northeast-2.amazonaws.com/item/reset.png)]
 [![GitMoti](http://mymoti.co.kr:3000/username/wakkpu)](http://mymoti.co.kr)
