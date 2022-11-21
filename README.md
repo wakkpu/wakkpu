@@ -12,7 +12,7 @@
 <br>
 <img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=flat-square&logo=JiraSoftware&logoColor=white"/>
 
-### 🔎 <b>Solved.ac</b> 🔎
+### 🔎 Solved.ac 🔎
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ho05248)](https://solved.ac/ho05248)
 
 ### Contribution Stats
